@@ -1,0 +1,44 @@
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.main-heading {
+    /* change color later */
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+      font-weight: bolder;
+}
+
+.subheaders {
+    /* change color later */
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+      font-weight: bolder;
+}
+
+.space1 {
+    margin-bottom: 50px;
+}
+
+.space2 {
+    margin-bottom: 10px;
+}
+
+.background {
+    /* change background-color to change the background, idk what color to choose yet */
+    background-color: #383838;
+}
+
+.paragraph {
+    /* change color later */
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+      font-weight: bolder;
+}
